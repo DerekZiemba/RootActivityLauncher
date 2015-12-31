@@ -1,6 +1,9 @@
 # RootActivityLauncher
 Launch Hidden Activities in android via Root
 
+Latest Version: 
+https://github.com/DerekZiemba/RootActivityLauncher/releases/tag/V2.0
+
 Based on Adam Szalkowski's Activity Launcher.  The differences are:
 
 1.) Root access via Stericsons RootShell so that activities such as hidden menu's that you do not have permissions to open, can be opened. 
